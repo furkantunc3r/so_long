@@ -10,7 +10,7 @@ The aim of the game is to collect the arrows without touching the enemies and ex
 
 This was a solo project.
 
-I used pre-made and free-to-use assets from the internet. First I have created 32x32 images with the MLX library. Than from the input I get from the map files, I drew the screen.
+I used pre-made and free-to-use assets from the internet. First I have created 32x32 images with the MLX library. Than with the input I get from the map files, I drew the screen.
 Than according to the user inputs, I swapped the images on the screen.
 
 I used the MLX documentation mostly for this project.
